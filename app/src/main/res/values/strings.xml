@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ButtonRoll</string>
+    <string name="Roll">Roll</string>
+    <string name="Reset">Reset</string>
+    <string name="Count">Count</string>
+    <string name="StartValue">0</string>
+</resources>
